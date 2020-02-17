@@ -1,0 +1,38 @@
+#Create {
+    text-align: center;
+    margin-bottom: 50px;
+}
+#div {
+    margin-left: 25%;
+    width: 50%;
+}
+#type, #eventTitle, #dates, #posting {
+    margin-left: 150px;
+    width: 300px;
+    display: inline-block;
+}
+#eventType, #title, #start, #postingDate {
+    margin-left: -150px;
+}
+#register, #Email, #FamProg, #PointofContact, #HostingCommand {
+    margin-left: 150px;
+    display:inline-block;
+}
+#Submit, #Reset {
+    margin-left: 300px;
+    margin-right: -250px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#text, #text2, #text3, #text4, #text5 {
+    display:none;
+}
+#text2 {
+    margin-left: 200px;
+}
+#text4 {
+    margin-left: 150px;
+}
+#Submited {
+    margin-left: 5.5in;
+}
